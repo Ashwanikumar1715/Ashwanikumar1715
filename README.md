@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashwanikumar29707@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/recent](https://drive.google.com/drive/recent)
+
 
 - ⚡ Fact **I am Worthy**
 

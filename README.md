@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm AshwaniKumar1715</h1>
-<h3 align="center">A passionate MERN developer and coding Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ashwani Kumar</h1>
+<h3 align="center">A passionate MERN stack developer and coding Enthusiast</h3>
 <img align="right" width"400px" alt="image" src="https://source.unsplash.com/random/?technology,computer">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikumar1715&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikumar1715" /> </p>
 

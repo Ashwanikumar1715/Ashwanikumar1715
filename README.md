@@ -3,11 +3,11 @@
 <img align="right" width"400px" alt="image" src="https://source.unsplash.com/random/?technology,computer">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikumar1715&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikumar1715" /> </p>
 
-- 🔭 I’m currently working on [an Educational website](https://techi-support-it1o.onrender.com)
+
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://ashwanikumar1715.github.io/portfolio/](https://ashwanikumar1715.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://ashwanikumar1715.github.io/portfolio/](https://ashwanifolio.onrender.com)
 
 - 📫 How to reach me **ashwanikumar29707@gmail.com**
 
